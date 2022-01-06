@@ -36,7 +36,8 @@ pacman::p_load("magrittr",
                "stringr",
                "purrr",
                "ggplot2",
-               "zip")
+               "zip",
+               "scales")
 
 
 
